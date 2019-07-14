@@ -1,5 +1,5 @@
 ---
-title: "NodeJS API Starter Templage"
+title: "NodeJS API Starter Template"
 date: "2019-03-24T00:00:00Z"
 layout: post
 draft: false
@@ -12,11 +12,11 @@ tags:
   - "restful api"
 ---
 
-Introduction to a very simple and well structured node-express-mongo API starter
+This article is about introduction to a very simple and well structured node-express-mongo API starter template.
 
 ![Introduction](./1.png)
 
-This article is more about structuring a node API properly. There are many templates available. Some follow model-view-presenter pattern, some say MVC or MVVM or some don’t use any pattern and write everything in a folder called routes. This template will help you get quickly started with rest api development as most of the setup is already there.
+You will learn about structuring a node API properly. There are many templates available. Some follow model-view-presenter pattern, some say MVC or MVVM or some don’t use any pattern and write everything in a folder called routes. This template will help you get quickly started with rest api development as most of the setup is already there.
 In this template, no additional libraries (other than fundamental ones) are used. This template shows better separation of code and logic. So let’s see what the template contains.
 
 ![Folder Structure - 1](./2.png)
