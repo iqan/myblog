@@ -5,7 +5,7 @@ module.exports = {
     description: `Iqan's blogs`,
     siteUrl: `https://iqansblog.netlify.com/`,
     social: {
-      twitter: `iqan_shaikh`,
+      twitter: `iqanshaikh`,
     },
   },
   plugins: [
